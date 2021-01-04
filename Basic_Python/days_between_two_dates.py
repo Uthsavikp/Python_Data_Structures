@@ -3,7 +3,7 @@
 * @Date: 2020-01-05 03:51:58 
 * @Last Modified by:   Uthsavi KP
 * @Last Modified time: 2020-01-05 03:55:38
-* @Title : To find number of dates between two dates.
+* @Title : To find number of days between two dates.
 '''
 
 from datetime import date
