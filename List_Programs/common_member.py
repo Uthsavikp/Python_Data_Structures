@@ -3,7 +3,7 @@
   @Date: 2021-01-05 21:19:44
   @Last Modified by:   Uthsavi KP
   @Last Modified time: 2021-01-05 21:19:44  
-  @Title: Program to clone or copy a list.
+  @Title: Return True If The Lists Have Common Member.
 '''
 
 class TwoList:
